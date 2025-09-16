@@ -1,0 +1,9 @@
+/datasets
+/env
+/outputs
+فریدون عباسی
+محمد صالح علی اکبری
+models/clip/clip_l.safetensors
+models/clip/t5xxl_fp8_e4m3fn.safetensors
+models/unet/local/custom/flux1-dev-fp8-e4m3fn.safetensors
+models/vae/ae.sft
